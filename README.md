@@ -1,0 +1,2 @@
+# .github
+Welcoe to Rifumo
