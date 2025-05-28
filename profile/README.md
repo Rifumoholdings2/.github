@@ -49,9 +49,6 @@ We encourage collaboration and welcome individuals who share our passion and vis
 * **Website:** https://rifumoholdings.co.za
 
 
-* **Contact Email:** [info@rifumo.com](mailto:info@rifumo.com)
+* **Contact Email:** [info@rifumo.com](mailto:info@rifumoholdings.co.za)
 
 Thank you for your interest in Rifumo Empowerment Holdings!
-
----
-*This README is maintained by the Rifumo Empowerment Holdings team.*
